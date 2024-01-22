@@ -16,7 +16,7 @@
 # 💻*Tech Stack*
 
  *Fron-end* | *Data Analisys* | *Mobile* | *Cloud* | *Others*
----|---|---|---|---
+:---:|:---:|:---:|:---:|:---:
  ![HTML5][HTML] | ![Python][Python] | ![Java][Java] | ![AWS][AWS] | ![Markdown][Markdown]    	    
  ![CSS3][CSS] | ![Anaconda][Anaconda] | ![Kotlin][Kotlin] | ![Go][Go] | ![Canva][Canva]
  ![JavaScript] | ![OpenCV][OpenCV] | ![Flutter][Flutter] | ![Azure][Azure] | ![Figma][Figma]
