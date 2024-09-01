@@ -1,4 +1,4 @@
-name: generate animation
+name: Gen Font Page
 
 on:
   # run automatically every 24 hours
@@ -26,16 +26,16 @@ jobs:
       - name: Checkout repository content
         uses: actions/checkout@v3
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: Gen Snake Animatio
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake-dark.svg?palette=github-dark
             
       - name: Gen font page
         run: |
-          cat > dist/README.md <<EOL
+          cat > README.md <<EOL
           # ***I'm Carlos Yazid Padilla***! 📈🇨🇴
           ![Banner-1.png](https://i.postimg.cc/sg8pqvcH/Banner-1.png)
           ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCarlosYazid&label=Visitors&labelColor=%23ba68c8&countColor=%232ccce4&style=flat)
@@ -88,7 +88,7 @@ jobs:
           
           
           # 📊*GitHub Stats*
-          ![](dist/github-contribution-grid-snake-dark.svg)<br/>
+          ![](github-contribution-grid-snake-dark.svg)<br/>
           ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
           
           ## 🏆*GitHub Trophies*
@@ -155,7 +155,7 @@ jobs:
           
           ---
           [![](https://visitcount.itsvg.in/api?id=CarlosYazid&icon=0&color=0)](https://visitcount.itsvg.in)
-          EOL>>
+          EOL
           
       - name: Commit and push changes
         run: |
