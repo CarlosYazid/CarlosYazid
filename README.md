@@ -1,15 +1,13 @@
 # ***I'm Carlos Yazid Padilla***! 📈🇨🇴
 ![Banner-1.png](https://i.postimg.cc/sg8pqvcH/Banner-1.png)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCarlosYazid&label=Visitors&labelColor=%23ba68c8&countColor=%232ccce4&style=flat)
+![](github-contribution-grid-snake-dark.svg)<br/>
 ---
 
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning a little of everything
 - 📫 How to reach me ...
 - 😄 Pronouns: He
-
-## 🌐*Socials*
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/939669249658601493) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlospadillar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Hawk7669Colombia) 
 
 # 💻*Tech Stack*
 
@@ -50,7 +48,7 @@
 
 
 # 📊*GitHub Stats*
-![](github-contribution-grid-snake-dark.svg)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆*GitHub Trophies*
