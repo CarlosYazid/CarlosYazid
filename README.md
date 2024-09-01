@@ -1,7 +1,7 @@
 # ***I'm Carlos Yazid Padilla***! 📈🇨🇴
 ![Banner-1.png](https://i.postimg.cc/sg8pqvcH/Banner-1.png)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCarlosYazid&label=Visitors&labelColor=%23ba68c8&countColor=%232ccce4&style=flat)
 ![](github-contribution-grid-snake-dark.svg)<br/>
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCarlosYazid&label=Visitors&labelColor=%23ba68c8&countColor=%232ccce4&style=flat)
 ---
 
 - 👀 I’m interested in Data
@@ -112,6 +112,3 @@
 [Spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [ApacheMaven]: https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white
 [Hibernate]: https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white
-
----
-[![](https://visitcount.itsvg.in/api?id=CarlosYazid&icon=0&color=0)](https://visitcount.itsvg.in)
