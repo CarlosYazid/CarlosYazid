@@ -1,13 +1,17 @@
-# ***I'm Carlos Yazid Padilla***! 📈🇨🇴
+# ***I'm Carlos Yazid Padilla***! 📈🇨🇴 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCarlosYazid&label=Visitors&labelColor=%23ba68c8&countColor=%232ccce4&style=flat)
 ![Banner-1.png](https://i.postimg.cc/sg8pqvcH/Banner-1.png)
 ![](github-contribution-grid-snake-dark.svg)<br/>
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCarlosYazid&label=Visitors&labelColor=%23ba68c8&countColor=%232ccce4&style=flat)
+
 ---
 
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning a little of everything
 - 📫 How to reach me ...
 - 😄 Pronouns: He
+
+# 📊*GitHub Stats*
+![](https://github-readme-stats.vercel.app/api?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻*Tech Stack*
 
@@ -45,14 +49,6 @@
 | ![Matplotlib][Matplotlib] | |
 | ![Keras][Keras] | |
 | ![scikit-learn][scikit-learn] | |
-
-
-# 📊*GitHub Stats*
-![](https://github-readme-stats.vercel.app/api?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆*GitHub Trophies*
-![](https://github-trophies.vercel.app/?username=CarlosYazid&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!--Data-->
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
