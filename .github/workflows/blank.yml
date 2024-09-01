@@ -23,6 +23,8 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v3
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -155,12 +157,12 @@ jobs:
           [![](https://visitcount.itsvg.in/api?id=CarlosYazid&icon=0&color=0)](https://visitcount.itsvg.in)
           EOL>>
           
-      - name: Push changes
+      - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
           git add .
-          git commit -m "Add/update generated content"
+          git commit -m "Add/update generated content" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
