@@ -155,10 +155,12 @@ jobs:
           [![](https://visitcount.itsvg.in/api?id=CarlosYazid&icon=0&color=0)](https://visitcount.itsvg.in)
           EOL>>
           
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: main
-          build_dir: .
+      - name: Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Add/update generated content"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
