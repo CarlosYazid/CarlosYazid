@@ -4,10 +4,18 @@
 
 ---
 
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning a little of everything
-- 📫 How to reach me ...
-- 😄 Pronouns: He
+I turn data into knowledge and knowledge into strategic decisions. 🧠✨ With expertise in Python, Scala, and Java, and a strong background in data analysis, predictive modeling, and machine learning, my mission is to extract valuable insights to drive business growth.
+
+🔹 Data Wrangling & ETL: Efficient data cleaning, transformation, and structuring. <br>
+🔹 Machine Learning & AI: Model development, evaluation, and optimization. <br>
+🔹 Big Data & Cloud: Scalable data processing in distributed environments. <br>
+🔹 Data Storytelling: Visualization and interpretation for data-driven decisions.
+
+Always looking for new challenges and opportunities to innovate with data. 🚀 Let’s connect!
+
+📩 Emails: contact@carlospadilla.co | contact@carlosroyero.co
+
+#DataScience #MachineLearning #BigData
 
 # 📊*GitHub Stats*
 ![](https://github-readme-stats.vercel.app/api?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
