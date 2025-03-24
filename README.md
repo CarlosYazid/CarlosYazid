@@ -1,8 +1,11 @@
 # ***I'm Carlos Yazid Padilla***! 📈🇨🇴 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCarlosYazid&label=Visitors&labelColor=%23ba68c8&countColor=%232ccce4&style=flat)
 ![Banner.png](https://i.postimg.cc/N0SCS3yY/Banner.png)
-![](github-contribution-grid-snake-dark.svg)<br/>
+![](github-contribution-grid-snake-dark.svg)<br/> <br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosyazid&theme=algolia)<br/>
 
 ---
+
+
 
 I turn data into knowledge and knowledge into strategic decisions. 🧠✨ With expertise in Python, Scala, and Java, and a strong background in data analysis, predictive modeling, and machine learning, my mission is to extract valuable insights to drive business growth.
 
@@ -18,8 +21,11 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 #DataScience #MachineLearning #BigData
 
 # 📊*Stats*
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosyazid&theme=algolia)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosyazid&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosyazid&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosyazid&theme=algolia&utcOffset=8)
+
 # 💻*Stack*
 
 *Data* | *Cloud* | *Others*
