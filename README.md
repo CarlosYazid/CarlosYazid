@@ -31,10 +31,10 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 | ![NumPy][NumPy] | ![Oracle][Oracle] | ![Jira][Jira] 
 | ![Pandas][Pandas] | ![Docker][Docker] | ![Spring][Spring]
 | ![PyTorch][PyTorch] | ![Shell Script][ShellScript] | ![Postman][Postman]
-| ![Plotly][Plotly] | ![Apache Airflow][ApacheAirflow] | ![Apache Maven][ApacheMaven]
-| ![TensorFlow][TensorFlow] | ![Kubernetes][Kubernetes] | ![GithubPages][GithubPages]
-| ![AmazonDynamoDB][AmazonDynamoDB] | ![GitHub Actions][GitHubActions] | ![Yarn][Yarn]
-| ![ApacheCassandra][ApacheCassandra] | ![GitHub][GitHub] | ![Hibernate][Hibernate]
+| ![Plotly][Plotly] | ![Kubernetes][Kubernetes] | ![Apache Maven][ApacheMaven]
+| ![TensorFlow][TensorFlow] | ![GitHub Actions][GitHubActions] | ![GithubPages][GithubPages]
+| ![AmazonDynamoDB][AmazonDynamoDB] | ![GitHub][GitHub] | ![Yarn][Yarn]
+| ![ApacheCassandra][ApacheCassandra] | | ![Hibernate][Hibernate]
 | ![MariaDB][MariaDB] | |
 | ![MicrosoftSQLServer][MicrosoftSQLServer] | |
 | ![MongoDB][MongoDB] | | 
@@ -48,7 +48,7 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 | ![Scipy][Scipy] | |
 | ![R][R] | |
 | ![Apache Kafka][ApacheKafka] | |
-| ![Apache Hadoop][ApacheHadoop] | |
+| ![Apache Airflow][ApacheAirflow] | |
 | ![Apache Hive][ApacheHive] | |
 | ![CockroachLabs][CockroachLabs] | |
 | ![Couchbase][Couchbase] | |
