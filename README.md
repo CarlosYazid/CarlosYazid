@@ -24,7 +24,6 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosyazid&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosyazid&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosyazid&theme=algolia&utcOffset=8)
 
 # 💻*Stack*
 
