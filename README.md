@@ -41,19 +41,19 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"></td>
-<td align="center"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></td>
 <td align="center"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"></td>
-<td align="center"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=anaconda" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure" /></td>
 <td align="center"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"></td>
-<td align="center"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud"></td>
-<td align="center"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=gcp" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=notion" /></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"></td>
@@ -62,33 +62,33 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"></td>
-<td align="center"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></td>
-<td align="center"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring"></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"></td>
-<td align="center"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Shell Script"></td>
-<td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" /></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly"></td>
-<td align="center"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"></td>
-<td align="center"><img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&amp;logo=Apache%20Maven&amp;logoColor=white" alt="Apache Maven"></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=maven" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"></td>
-<td align="center"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /></td>
 <td align="center"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GithubPages"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&amp;logo=Amazon%20DynamoDB&amp;logoColor=white" alt="AmazonDynamoDB"></td>
-<td align="center"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></td>
-<td align="center"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white" alt="Yarn"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dynamodb" /></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=yarn" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&amp;logo=apache-cassandra&amp;logoColor=white" alt="ApacheCassandra"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cassandra" /></td>
 <td align="center"></td>
-<td align="center"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&amp;logo=Hibernate&amp;logoColor=white" alt="Hibernate"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=hibernate" /></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB"></td>
@@ -101,17 +101,17 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongo" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
@@ -126,17 +126,17 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&amp;logo=scala&amp;logoColor=white" alt="Scala"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=scala" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
@@ -146,12 +146,12 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=r" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&amp;logo=apachekafka" alt="Apache Kafka"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kafka" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
@@ -176,7 +176,7 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis" /></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
