@@ -17,11 +17,10 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 
 #DataScience #MachineLearning #BigData
 
-# 📊*GitHub Stats*
-![](https://github-readme-stats.vercel.app/api?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosYazid&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 💻*Tech Stack*
+# 📊*Stats*
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosyazid&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosyazid&theme=algolia) 
+# 💻*Stack*
 
 *Data* | *Cloud* | *Others*
 |:---:|:---:|:---:
