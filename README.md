@@ -22,8 +22,6 @@
 ```
 ---
 
-
-
 I turn data into knowledge and knowledge into strategic decisions. 🧠✨ With expertise in Python, Scala, and Java, and a strong background in data analysis, predictive modeling, and machine learning, my mission is to extract valuable insights to drive business growth.
 
 🔹 Data Wrangling & ETL: Efficient data cleaning, transformation, and structuring. <br>
@@ -254,6 +252,10 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 | ![Keras][Keras] | |
 | ![scikit-learn][scikit-learn] | |
 -->
+<br></br>
+<div id="end-of-an-era" align="center">
+  <img src="https://i.postimg.cc/3xt9ym0H/Whats-App-Image-2025-07-21-at-15-48-51-92f993f2-1.jpg"/>
+</div>
 
 <!--Data-->
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
