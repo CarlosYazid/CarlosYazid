@@ -2,7 +2,7 @@
 ![Banner](https://i.postimg.cc/QxYbKwTw/Azul-Blanco-Arquitecto-Banner-Linked-In.png)
 ![](github-contribution-grid-snake-dark.svg)<br/> <br/>
 <div id="info" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosYazid&theme=aura_dark" alt="Info"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosYazid&theme=date_night" alt="Info"/>
 </div>
 <br/>
 
@@ -38,8 +38,8 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 # 📊*Stats*
 
 <div id="stats" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosyazid&theme=aura_dark" alt="Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosYazid&theme=aura_dark" alt="Repos per language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosyazid&theme=date_night" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosYazid&theme=date_night" alt="Repos per language"/>
 </div>
 
 # 💻*Stack*
