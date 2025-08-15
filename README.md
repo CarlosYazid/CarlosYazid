@@ -1,5 +1,5 @@
 # ***I'm Carlos Yazid Padilla***! 📈🇨🇴 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCarlosYazid&label=Visitors&labelColor=%23ba68c8&countColor=%232ccce4&style=flat)
-![Banner.png](https://i.postimg.cc/N0SCS3yY/Banner.png)
+![Banner](https://i.postimg.cc/QxYbKwTw/Azul-Blanco-Arquitecto-Banner-Linked-In.png)
 ![](github-contribution-grid-snake-dark.svg)<br/> <br/>
 <div id="info" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosyazid&theme=algolia" alt="Info"/>
