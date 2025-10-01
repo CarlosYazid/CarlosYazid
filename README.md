@@ -31,7 +31,7 @@ I turn data into knowledge and knowledge into strategic decisions. 🧠✨ With 
 
 Always looking for new challenges and opportunities to innovate with data. 🚀 Let’s connect!
 
-📩 Emails: contact@carlospadilla.co | contact@carlosroyero.co
+📩 Emails: contact@carlospadilla.co
 
 #DataScience #MachineLearning #BigData
 
