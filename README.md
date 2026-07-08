@@ -2,7 +2,7 @@
 ![Banner](https://i.postimg.cc/QxYbKwTw/Azul-Blanco-Arquitecto-Banner-Linked-In.png)
 ![](github-contribution-grid-snake-dark.svg)<br/> <br/>
 <div id="info" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosYazid&theme=date_night" alt="Info"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosYazid&theme=radical" alt="Info"/>
 </div>
 <br/>
 
@@ -38,8 +38,9 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 # 📊*Stats*
 
 <div id="stats" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosyazid&theme=date_night" alt="Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosYazid&theme=date_night" alt="Repos per language"/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosYazid&theme=radical" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosYazid&theme=radical" alt="Repos per language"/>
 </div>
 
 # 💻*Stack*
@@ -252,10 +253,6 @@ Always looking for new challenges and opportunities to innovate with data. 🚀 
 | ![Keras][Keras] | |
 | ![scikit-learn][scikit-learn] | |
 -->
-<br></br>
-<div id="end-of-an-era" align="center">
-  <img src="https://i.postimg.cc/3xt9ym0H/Whats-App-Image-2025-07-21-at-15-48-51-92f993f2-1.jpg"/>
-</div>
 
 <!--Data-->
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
